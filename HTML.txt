@@ -1,0 +1,67 @@
+tags:
+
+<a href> linka para uma outra pagina
+
+<b> - negrito sem semantica
+<span style="font-weight:bold;"> - negrito semanticamente correto
+                         bolder;"> - mais escuro que o "bold"
+                         400;"> - nivel normal de negrito
+                         900;"> - nival mais escuro
+
+<br> - Quebra de linha(enter)
+
+<code> - indica que o texto é um codigo
+
+<del> - sublinha a palavra ao meio
+
+<em> - Itálico semanticamente correto
+<i>  - Italico
+
+<header> tudo que voce quer colocar em um cabeçalho
+<hr> - Cria uma linha horizontal
+<hgroup> - delimita um grupo de tags
+<h1> - Cria títulos
+<h1 style="text-align: center"> - Cria títulos alinhado ao centro
+                       left
+                       right
+
+
+
+<ol> - listas ordenadas
+
+<pre> - considera espaços e enters digitados no texto
+
+<span style="text-decoration:underline;"> - sublinha semanticamente
+                             overline;"> - linha acima da palavra
+                             line-through;"> - rica a palavra
+                             none;"> - deixa a palavra sem nada
+<sup> - eleva a escrita ex: m²
+<sub> - rebaixa uma escrita ex: h20
+
+<title> - Titulo
+
+<ul> - Listas desordenadas
+
+<wbr/> - Quebra de palavra sem "-"(serve para separar palavras)
+
+
+
+&nbsp; - espaco semanticamente correto
+&shy; - quebra de palavra adicionando o "-" para separar
+
++++simbolos+++++
+
+<lt> = <
+<gt> = >
+<le> = <=
+<ge> = >=
+
+
+paleta de cores: https://www.w3schools.com/colors/colors_picker.asp
+
+simbolos especiais: http://www.erikasarti.com/html/dingbats-simbolos-desenhos/
+                    https://www.eusou.com/informatico/incl/simbolos.htm
+
+
+
+
