@@ -40,3 +40,24 @@
     figure.foto-legenda1:hover figcaption{
         opacity: 1;
     }
+    /* configurando o menu princial */
+    nav#menu{
+        display: block;
+    }
+nav#menu ul{
+    
+    list-style: none;
+    text-transform: uppercase;
+    position: absolute;
+    top: 0px;
+    left: 760px;
+}
+nav#menu li{
+    display: inline;
+    background-color: tomato;
+    padding: 10px;
+    margin: -2px;
+}
+nav#menu h1{
+    display: none;
+}
